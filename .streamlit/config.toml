@@ -1,0 +1,13 @@
+[server]
+port = 8501
+address = "127.0.0.1"
+headless = true
+runOnSave = true
+
+[browser]
+serverAddress = "127.0.0.1"
+serverPort = 8501
+gatherUsageStats = false
+
+[theme]
+base = "light"
